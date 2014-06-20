@@ -1,0 +1,1 @@
+"C:/Program Files/Autodesk/Maya2014/bin/render.exe" -r mr -v 4 -rt 8 -cam camera1 -s 0 -e 86 -proj "C:/Users/Karen Troiano/Documents/GitHub/Proyecto-final-GII" "C:/Users/Karen Troiano/Documents/GitHub/Proyecto-final-GII/scenes/Tomas/tomaBala01.mb"
