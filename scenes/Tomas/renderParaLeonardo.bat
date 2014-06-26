@@ -1,2 +1,1 @@
 "C:/Program Files/Autodesk/Maya2014/bin/render.exe" -r mr -v 4 -rt 8 -x 960 -y 540 -cam camera2 -s 115 -e 150 -proj "C:/Users/Leo/Documents/maya/projects/Proyecto-final-GII" "C:/Users/Leo/Documents/maya/projects/Proyecto-final-GII/scenes/Tomas/tomaPista05.mb"
-shutdown /h
