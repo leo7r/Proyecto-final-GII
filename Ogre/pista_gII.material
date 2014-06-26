@@ -1,0 +1,19 @@
+material baked
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0 1
+
+			texture_unit
+			{
+				texture texPista1.tga
+				colour_op_ex add src_texture src_current
+				colour_op_multipass_fallback one one
+			}
+		}
+
+	}
+
+}
